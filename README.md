@@ -1,48 +1,26 @@
-## NPM Commands
+# Write the usage of this project. This project is written in React, Typescript and Next.js
 
-```
-npm i
-```
+# The project is a simple web application for ecommerce
 
-```
-npm list
-```
+## Installation
 
-```
-npm view
+```bash
+npm install
 ```
 
-```
-npm update
+## Usage
+
+```bash
+npm run dev
 ```
 
-```
-npm update -g
-```
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ```
-npm un <package>
-```
 
-```
-npm up <package>
-```
 
-### list available scripts to run
 
-```
-npm run
-```
 
-```
-npn run dev
-```
-
-```
-npn run build
-```
-
-```
-netstat -ano | findstr :3000
-npx kill-port 3000
 ```
